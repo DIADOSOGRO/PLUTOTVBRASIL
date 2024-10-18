@@ -101,6 +101,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/62b5c5a064163d0007b2efe6/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593.m3u8
 
 
+#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-name="EURONEWS PORTUGUES" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="NOTICIAS" tvg-chno="685",EURONEWS PORTUGUES
+https://stitcher.pluto.tv/stitch/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593.m3u8
+
+
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="NOTICIAS" tvg-chno="693",RECORD NEWS
+https://stitcher.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593.m3u8
+
+
 #EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-name="MASTER CHEF" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="REALITY" tvg-chno="418",MASTER CHEF
 https://stitcher.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593.m3u8
 
