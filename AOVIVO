@@ -115,7 +115,3 @@ https://stitcher.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u
 
 #EXTINF:-1 tvg-id="6474ab5cdc7a760008745008" tvg-name="SERIES CRIMINAIS" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="SERIES" tvg-chno="102",SERIES CRIMINAIS
 https://stitcher.pluto.tv/stitch/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593.m3u8
-
-
-#EXTINF:-1 tvg-id="64b02be14ea480000831ec78" tvg-name="TESTE" tvg-logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png" group-title="TESTE" tvg-chno="601",TESTE
-https://stitcher.pluto.tv/stitch/hls/channel/64b02be14ea480000831ec78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=99d8c277-9ad9-11ef-875e-aa6df98b4377.m3u8
